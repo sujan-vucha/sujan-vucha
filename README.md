@@ -25,4 +25,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sujan-vucha&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujan-vucha&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" />
+</p>
 
