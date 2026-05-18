@@ -22,20 +22,16 @@
 
 <br>
 
-<h1 align="center">⚡WHAT I BUILD ⚡</h1>
+<br>
 
-```console
-┌──(sujan㉿github)-[~/fullstack]
-└─$ shipping full stack apps with spring boot & next.js
+<h1 align="center">⚡ WHAT I BUILD ⚡</h1>
 
-┌──(sujan㉿github)-[~/automation]
-└─$ automating workflows using n8n
-
-┌──(sujan㉿github)-[~/ai]
-└─$ integrating ai tools into real-world web applications
-
-┌──(sujan㉿github)-[~/backend]
-└─$ building scalable backends, realtime systems & internal tools
+```diff
++ Full Stack Applications with Spring Boot & Next.js
++ Workflow Automation using n8n
++ AI-integrated Web Applications
++ Realtime Systems & Scalable APIs
++ Backend Architecture & Developer Tooling
 ```
 
 
