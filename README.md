@@ -24,24 +24,39 @@
 
 <br>
 
-<h2 align="center">⚡ ACTIVE SYSTEMS</h2>
+<h2 align="center">// currently running</h2>
+<h1 align="center">Active Systems</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&pause=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=▶+all+systems+operational+|+6%2F6+running" />
+</div>
+
+<br>
 
 <table align="center">
   <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Full%20Stack-Engineering-39FF14?style=for-the-badge&labelColor=0d1117&color=39FF14" />
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/MODULE__01-Full%20Stack%20Engineering-58a6ff?style=for-the-badge&logo=stackshare&logoColor=white&labelColor=161b22" />
     </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/AI--Powered-Applications-39FF14?style=for-the-badge&labelColor=0d1117&color=39FF14" />
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/MODULE__02-AI%20Powered%20Apps-a371f7?style=for-the-badge&logo=openai&logoColor=white&labelColor=161b22" />
     </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-39FF14?style=for-the-badge&labelColor=0d1117&color=39FF14" />
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/MODULE__03-n8n%20Automation-e3b341?style=for-the-badge&logo=n8n&logoColor=white&labelColor=161b22" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Scalable-Backend%20Systems-39FF14?style=for-the-badge&labelColor=0d1117&color=39FF14" />
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/MODULE__04-Scalable%20Backend-3fb950?style=for-the-badge&logo=serverless&logoColor=white&labelColor=161b22" />
     </td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/MODULE__05-Realtime%20Comms-f778ba?style=for-the-badge&logo=socket.io&logoColor=white&labelColor=161b22" />
+    </td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/MODULE__06-Build%20Smarter-ff7b72?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=161b22" />
+    </td>
+  </tr>
+</table>
     <td align="center" width="200">
       <img src="https://img.shields.io/badge/Realtime-Communication-39FF14?style=for-the-badge&labelColor=0d1117&color=39FF14" />
     </td>
