@@ -1,12 +1,6 @@
-# Hi, I'm Sujan 👋
-
-## About Me
-
-- Electronics Engineer interested in Software Development
-- Learning Full Stack Development
-- Currently learning Next.js, Spring Boot, and DSA
-- Interested in AI/ML and Backend Development
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Spring+Boot+%7C+Next.js;DSA+Enthusiast;Learning+AI%2FML" />
+</p>
 ---
 
 # Tech Stack
