@@ -6,13 +6,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;Spring+Boot+%7C+MERN+Stack;Building+AI-Powered+Applications;Automating+Workflows+with+n8n;Using+AI+Tools+to+Build+Smarter+Systems;Scalable+Backend+%26+Web+Development" />
 ---
 
-# Currently Working On
+<h1 align="center">Tech Stack</h1>
 
-- Roles & Permissions system using Next.js
-- DSA Preparation
-- Full Stack Projects
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,react,nextjs,nodejs,express,spring&theme=dark" />
+</p>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mysql,mongodb,docker,git,github,githubactions,linux&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" />
+</p>
 
 # GitHub Stats
 
