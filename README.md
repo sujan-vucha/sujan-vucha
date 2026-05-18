@@ -1,4 +1,4 @@
-<img width="100%" src="banner.png" />
+<img width="100%" src="banner.gif" />
 
 # Tech Stack
 
