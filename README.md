@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Sujan 👋
 
-<!--
-**sujan-vucha/sujan-vucha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Electronics Engineer interested in Software Development
+- Learning Full Stack Development
+- Currently learning Next.js and DSA
+- Interested in AI/ML and Backend Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+### Languages
+- Java
+- JavaScript
+- SQL
+
+### Frameworks & Tools
+- Spring Boot
+- Next.js
+- React
+- Node.js
+- MySQL
+- Git
+- VS Code
+
+---
+
+## Currently Working On
+- Roles & Permissions system using Next.js
+- DSA Preparation
+- Full Stack Projects
+
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## Connect With Me
+
+- LinkedIn: your-link
+- Portfolio: your-link
