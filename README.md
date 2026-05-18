@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;Spring+Boot+%7C+MERN+Stack;Building+AI-Powered+Applications;Automating+Workflows+with+n8n;Using+AI+Tools+to+Build+Smarter+Systems;Scalable+Backend+%26+Web+Development" />
----
 
 <h1 align="center">Tech Stack</h1>
 
