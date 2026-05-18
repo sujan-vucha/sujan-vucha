@@ -20,14 +20,22 @@
 </p>
 
 
-# What I Build
+<br>
 
-```bash
-> AI-powered web applications
-> Workflow automation systems using n8n
-> Full stack applications with Spring Boot & MERN
-> Real-time systems using Socket.IO
-> Backend architectures and scalable APIs
+<h1 align="center">⚡WHAT I BUILD ⚡</h1>
+
+```console
+┌──(sujan㉿github)-[~/fullstack]
+└─$ shipping full stack apps with spring boot & next.js
+
+┌──(sujan㉿github)-[~/automation]
+└─$ automating workflows using n8n
+
+┌──(sujan㉿github)-[~/ai]
+└─$ integrating ai tools into real-world web applications
+
+┌──(sujan㉿github)-[~/backend]
+└─$ building scalable backends, realtime systems & internal tools
 ```
 
 
