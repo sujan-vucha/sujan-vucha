@@ -32,13 +32,15 @@
 
 # GitHub Stats
 
-![Sujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujan-vucha&show_icons=true&theme=tokyonight)
+# GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sujan-vucha&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
 ---
 
 # Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujan-vucha&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujan-vucha&layout=compact&theme=tokyonight"/>
 
 ---
 
