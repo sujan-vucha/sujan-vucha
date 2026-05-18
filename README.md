@@ -20,9 +20,16 @@
 </p>
 
 
-# GitHub Stats
+# What I Build
 
-# GitHub Stats
+```bash
+> AI-powered web applications
+> Workflow automation systems using n8n
+> Full stack applications with Spring Boot & MERN
+> Real-time systems using Socket.IO
+> Backend architectures and scalable APIs
+```
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sujan-vucha&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
