@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Spring+Boot+%7C+Next.js;DSA+Enthusiast;Learning+AI%2FML" />
-</p>
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Sujan%20Vucha&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
 # Tech Stack
 
