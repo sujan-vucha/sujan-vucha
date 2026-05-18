@@ -38,18 +38,3 @@
 > scalable backend systems
 > realtime communication platforms
 ```
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sujan-vucha&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-
----
-
-# Top Languages
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujan-vucha&layout=compact&theme=tokyonight"/>
-
----
-
-# Connect With Me
-
-- LinkedIn: add-your-link-here
-- Portfolio: add-your-link-here
