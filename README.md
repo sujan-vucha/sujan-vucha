@@ -24,16 +24,20 @@
 
 <br>
 
-<h1 align="center">⚡ WHAT I BUILD ⚡</h1>
+<br>
 
-```diff
-+ Full Stack Applications with Spring Boot & Next.js
-+ Workflow Automation using n8n
-+ AI-integrated Web Applications
-+ Realtime Systems & Scalable APIs
-+ Backend Architecture & Developer Tooling
+<h1 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGx1Y2Q2MnlmOW5mNTR4ZXBqOHNlNnVlaTB4MmJ4eXI5N3k5NGNsZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="35">
+  ACTIVE SYSTEMS
+</h1>
+
+```console
+> full stack engineering
+> ai-assisted applications
+> n8n workflow automation
+> scalable backend systems
+> realtime communication platforms
 ```
-
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sujan-vucha&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
