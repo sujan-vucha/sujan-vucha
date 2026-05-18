@@ -29,3 +29,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujan-vucha&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" />
 </p>
 
+<h2 align="center">Connect</h2>
+<p align="center">
+  <a href="https://twitter.com/sujan_vucha"><img src="https://img.shields.io/badge/X-sujan__vucha-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=161b22" /></a>
+  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" /></a>
+</p>
