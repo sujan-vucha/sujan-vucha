@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Spring+Boot+%7C+Next.js;DSA+Enthusiast;Learning+AI%2FML" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Spring+Boot+%7C+MERN+Stack;AI%2FML+Enthusiast;LLM+Integration+Developer;n8n+Automation+Workflows;Building+Scalable+Web+Applications" />
 </p>
 # Tech Stack
 
