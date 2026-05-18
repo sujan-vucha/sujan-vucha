@@ -16,10 +16,6 @@
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mysql,mongodb,docker,git,github,githubactions,linux&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=windows&theme=dark" />
-</p>
-
 # GitHub Stats
 
 # GitHub Stats
