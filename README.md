@@ -24,17 +24,29 @@
 
 <br>
 
-<br>
+<h2 align="center">⚡ ACTIVE SYSTEMS</h2>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGx1Y2Q2MnlmOW5mNTR4ZXBqOHNlNnVlaTB4MmJ4eXI5N3k5NGNsZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="35">
-  ACTIVE SYSTEMS
-</h1>
-
-```console
-> full stack engineering
-> ai-assisted applications
-> n8n workflow automation
-> scalable backend systems
-> realtime communication platforms
-```
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Full%20Stack-Engineering-39FF14?style=for-the-badge&labelColor=0d1117&color=39FF14" />
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/AI--Powered-Applications-39FF14?style=for-the-badge&labelColor=0d1117&color=39FF14" />
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-39FF14?style=for-the-badge&labelColor=0d1117&color=39FF14" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Scalable-Backend%20Systems-39FF14?style=for-the-badge&labelColor=0d1117&color=39FF14" />
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Realtime-Communication-39FF14?style=for-the-badge&labelColor=0d1117&color=39FF14" />
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/AI%20Tools-Build%20Smarter-39FF14?style=for-the-badge&labelColor=0d1117&color=39FF14" />
+    </td>
+  </tr>
+</table>
