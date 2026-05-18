@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="banner.gif" />
+  <img width="100%" src="banner1.gif" />
 </p>
 
 # Tech Stack
